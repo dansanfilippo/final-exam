@@ -293,6 +293,8 @@ textarea {
 
 }
 
-
-
+.jumbotron {
+  background-image: url("../img/Internet-Explorer_1.gif");
+  background-size: cover;
+}
 
