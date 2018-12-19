@@ -17,6 +17,7 @@
     font-size: 1em;
     line-height: 1.4;
 }
+
 body {
   background-color: ivory;
 }
@@ -296,5 +297,7 @@ body {
         page-break-after: avoid;
     }
 }
-
-
+.codetext{
+  color: grey;
+  font-size: 1.2em;
+}
