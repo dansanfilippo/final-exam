@@ -301,3 +301,9 @@ body {
   color: grey;
   font-size: 1.2em;
 }
+.colortext{
+  background-color: rgba(000, 000, 000, 0.5);
+}
+.colortext2{
+  background-color: #0078D5;
+}
